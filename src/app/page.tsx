@@ -1,6 +1,6 @@
-import Link from "next/link";
-
-const mockUrls = Array(40).fill("https://picsum.photos/200");
+const mockUrls: string[] = Array(40).fill(
+  "https://picsum.photos/200",
+) as string[];
 
 const mockImages = mockUrls.map((url, index) => ({
   id: (index + 1).toString(),
