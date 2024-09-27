@@ -1,4 +1,4 @@
-# JT Gallary
+# JT Gallery
 
 # Todo:
 
