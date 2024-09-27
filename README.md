@@ -2,8 +2,8 @@
 
 # Todo:
 
-- [ ] Make it deploy (/w vercel)
-- [ ] scaffold ui with mock data
+- [x] Make it deploy (/w vercel)
+- [x] scaffold ui with mock data
 - [ ] actually setup a database (/w vercel postgres)
 - [ ] attach db to ui
 - [ ] add authentication (/w clerk)
