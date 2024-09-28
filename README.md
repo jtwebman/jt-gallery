@@ -6,7 +6,7 @@
 - [x] scaffold ui with mock data
 - [x] actually setup a database (/w vercel postgres)
 - [x] attach db to ui
-- [ ] add authentication (/w clerk)
+- [x] add authentication (/w clerk)
 - [ ] add image upload
 - [ ] error management (sentry)
 - [ ] routing/image page
